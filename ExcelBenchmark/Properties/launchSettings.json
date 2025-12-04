@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExcelBenchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "-c Release"
+    }
+  }
+}
